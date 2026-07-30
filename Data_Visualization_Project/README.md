@@ -165,7 +165,8 @@ images/dashboard.png
 
 ## 👨‍💻 Author
 
-*(Add your name here)*
+*Tanisha Chaudhary*
+Github - https://github.com/Tanisha2621/dataviz-excercises-TanishaChaudhary
 
 ---
 
