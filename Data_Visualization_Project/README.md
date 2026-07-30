@@ -113,46 +113,6 @@ Data_Visualization_Project_COVID19_Analysis/
 
 ---
 
-## 🚀 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/Data_Visualization_Project_COVID19_Analysis.git
-```
-
-Navigate to the project folder:
-
-```bash
-cd Data_Visualization_Project_COVID19_Analysis
-```
-
-Install the required packages:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the Streamlit dashboard:
-
-```bash
-streamlit run app.py
-```
-
----
-
-## 📷 Dashboard Preview
-
-You can add screenshots of your dashboard here.
-
-Example:
-
-```
-images/dashboard.png
-```
-
----
-
 ## 📌 Key Insights
 
 - Mortality rises sharply from age 50 onward, and men have a higher mortality rate than women at every age group.
